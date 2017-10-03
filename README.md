@@ -95,7 +95,7 @@ otherwise, run the following commands:
 
 ```
 cd ..
-git clone https//github.com/iTowns/itowns-sample-data.git
+git clone https://github.com/iTowns/itowns-sample-data.git
 cd -
 ```
 
